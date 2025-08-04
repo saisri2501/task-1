@@ -24,7 +24,7 @@ jewellery-landing-page/
 
 How to Run the Project:-
 1. Clone the repository:
-   git clone https://github.com/saisri2501/task1.git
+   git clone https://github.com/saisri2501/task-1.git
 
 2. Open the folder and double-click index.html
                     or
