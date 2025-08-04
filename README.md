@@ -14,7 +14,7 @@ Technologies Used:-
 - Google Fonts
 
 Folder Structure:-
-jewellery-landing-page/
+task-1/
 ├── index.html
 ├── style.css
 └── images/
